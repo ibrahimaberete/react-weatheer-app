@@ -13,7 +13,7 @@ Building weather forecast component\
 
 API's link:\
 [openweathermap](https://openweathermap.org/)\
-[hrapidapi](https://rapidapi.com/wirefreethought/api/geodb-cities/)\
+[hrapidapi](https://rapidapi.com/wirefreethought/api/geodb-cities/)
 
 ## Available Scripts
 
