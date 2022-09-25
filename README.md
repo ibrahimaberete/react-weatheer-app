@@ -2,6 +2,19 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## `About this project:`
+we learn: 
+How to get API keys
+Creating the application and installing packages
+Building city search component
+Building current weather component
+Fetching and mapping data from weather API
+Building weather forecast component
+
+API's link:
+[openweathermap](https://openweathermap.org/)
+[hrapidapi](https://rapidapi.com/wirefreethought/api/geodb-cities/)
+
 ## Available Scripts
 
 In the project directory, you can run:
