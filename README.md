@@ -9,11 +9,11 @@ Creating the application and installing packages\
 Building city search component\
 Building current weather component\
 Fetching and mapping data from weather API\
-Building weather forecast component\
+Building weather forecast component
 
 API's link:\
-[openweathermap](https://openweathermap.org/)\
-[hrapidapi](https://rapidapi.com/wirefreethought/api/geodb-cities/)
+[Openweathermap](https://openweathermap.org/)\
+[Rapidapi](https://rapidapi.com/wirefreethought/api/geodb-cities/)
 
 ## Available Scripts
 
